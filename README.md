@@ -1,10 +1,10 @@
 # Hi there, I'm [Suraj Sahani](https://www.linkedin.com/in/techsurajsahani) 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/techsurajsahani)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-brightgreen)](https://leetcode.com/surajsahani9321/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-success)](https://www.hackerrank.com/radhashyam9321)
-[![Coding Ninjas](https://img.shields.io/badge/HackerRank-Profile-success)](https://www.codingninjas.com/studio/profile/techsurajsahani)
-[![CodeChef](https://img.shields.io/badge/HackerRank-Profile-success)](https://www.codechef.com/users/technicalsuraj)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/techsurajsahani)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-brightgreen?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/surajsahani9321/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-success?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/radhashyam9321)
+[![Coding Ninjas](https://img.shields.io/badge/Coding%20Ninjas-Profile-success?style=flat&logo=codingninjas&logoColor=white)](https://www.codingninjas.com/studio/profile/techsurajsahani)
+[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-success?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/technicalsuraj)
 
 I'm a passionate web developer who embarked on this journey in 2020. I have gained expertise in various technologies and frameworks, focusing on both frontend and backend development.
 
